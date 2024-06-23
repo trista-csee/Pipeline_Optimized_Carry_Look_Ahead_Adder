@@ -16,17 +16,17 @@
 ## Simulation
 ![image](https://github.com/trista-csee/Pipeline_Optimized_Carry_Look_Ahead_Adder/blob/main/Simulation.png)
 
-<!-- Automated Comparison Testbench -->
-## Automated Comparison Testbench
-![image](https://github.com/trista-csee/Pipeline_Optimized_Carry_Look_Ahead_Adder/blob/main/automated%20comparison%20testbench.png)
+<!-- Automated Comparison Monitor -->
+## Automated Comparison Monitor
+![image](https://github.com/trista-csee/Pipeline_Optimized_Carry_Look_Ahead_Adder/blob/main/automated_comparison_monitor.png)
 
 <!-- Synthesis Report -->
 ## Synthesis Report
 * Timing
-![image](https://github.com/trista-csee/Pipeline_Optimized_Carry_Look_Ahead_Adder/blob/main/Timing%20Report.png)
+![image](https://github.com/trista-csee/Pipeline_Optimized_Carry_Look_Ahead_Adder/blob/main/timing_report.png)
 
 * Utilization
-![image](https://github.com/trista-csee/Pipeline_Optimized_Carry_Look_Ahead_Adder/blob/main/Utilization%20Report.png)
+![image](https://github.com/trista-csee/Pipeline_Optimized_Carry_Look_Ahead_Adder/blob/main/utilization_report.png)
 
 <!-- LICENSE -->
 ## License
