@@ -5,7 +5,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT Name -->
-<h1 align="center">Design a pipeline and high-performance carry-look-ahead adder and verify with automated comparison testbench</h1>
+<h1 align="center">Design a pipeline and high-performance carry-look-ahead adder and verify using automated comparison testbench</h1>
 
 <!-- Schmatic -->
 ## Schmatic
