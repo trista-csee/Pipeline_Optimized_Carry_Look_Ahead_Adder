@@ -9,7 +9,7 @@
 
 <!-- Schmatic -->
 ## Schmatic
-* In order to optimize the pipeline CLA, depending on the carry_out of the low-16 bits CLA, the sum and carry_out of the high-16 bits CLA is selected to be 0 or 1.
+* In order to optimize the pipeline carry-look-ahead adder, depending on the carry_out of the low-16 bits carry-look-ahead adder, the sum and carry_out of the high-16 bits carry-look-ahead adder are selected to be 0 or 1.
 ![image](https://github.com/trista-csee/Pipeline_Optimized_Carry_Look_Ahead_Adder/blob/main/Schmatic.png)
 
 <!-- Simulation -->
