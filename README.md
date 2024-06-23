@@ -10,23 +10,23 @@
 <!-- Schmatic -->
 ## Schmatic
 * In order to optimize the pipeline CLA, depending on the carry_out of the low-16 bits CLA, the sum and carry_out of the high-16 bits CLA is selected to be 0 or 1.
-![image]()
+![image](https://github.com/trista-csee/Pipeline_Optimized_Carry_Look_Ahead_Adder/blob/main/Schmatic.png)
 
 <!-- Simulation -->
 ## Simulation
-![image]()
+![image](https://github.com/trista-csee/Pipeline_Optimized_Carry_Look_Ahead_Adder/blob/main/Simulation.png)
 
 <!-- Automated Comparison Testbench -->
 ## Automated Comparison Testbench
-![image]()
+![image](https://github.com/trista-csee/Pipeline_Optimized_Carry_Look_Ahead_Adder/blob/main/automated%20comparison%20testbench.png)
 
 <!-- Synthesis Report -->
 ## Synthesis Report
 * Timing
-![image]()
+![image](https://github.com/trista-csee/Pipeline_Optimized_Carry_Look_Ahead_Adder/blob/main/Timing%20Report.png)
 
 * Utilization
-![image]()
+![image](https://github.com/trista-csee/Pipeline_Optimized_Carry_Look_Ahead_Adder/blob/main/Utilization%20Report.png)
 
 <!-- LICENSE -->
 ## License
@@ -41,7 +41,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 吳華楨 Trista Wu - trista.cs11@nycu.edu.tw
 
-Project Link: [https://github.com/trista-csee/Nbit_Bidirectional_Shift_Register](https://github.com/trista-csee/Nbit_Bidirectional_Shift_Register)
+Project Link: [https://github.com/trista-csee/Pipeline_Optimized_Carry_Look_Ahead_Adder](https://github.com/trista-csee/Pipeline_Optimized_Carry_Look_Ahead_Adder)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
